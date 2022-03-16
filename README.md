@@ -1,6 +1,8 @@
 # MY FINANCIAL FREEDOM JOURNEY
  
  This is my basic PowerBi finance dashboard, data collected from the time I start record which is 2021 August untill the day I post it 2022 Mar. I hope I can share my small experience in managing personal finance with everyone.
+
+ ![alt text](finance-dashboard-pic.png)
  
  Financial freedom is one thing that most people pursuit, but lots of people cannot achieve it in their whole life.
 
